@@ -1,3 +1,4 @@
 # spotify
 
-A new Flutter project.
+A new Flutter clone project.
+
